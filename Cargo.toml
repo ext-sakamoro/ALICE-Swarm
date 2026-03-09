@@ -3,7 +3,7 @@ name = "alice-swarm"
 version = "1.0.0"
 edition = "2021"
 authors = ["Moroya Sakamoto"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 description = "Multi-agent swarm control: Boids, formation, consensus, task allocation, obstacle avoidance"
 
 [lib]
