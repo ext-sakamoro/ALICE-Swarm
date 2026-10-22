@@ -2,7 +2,7 @@
 
 # ALICE-Swarm
 
-Multi-agent swarm control library for the ALICE ecosystem. Provides Boids algorithm, formation control, consensus protocols, task allocation, obstacle avoidance, and swarm metrics -- all in pure Rust.
+Swarm control library for many autonomous units, for the ALICE ecosystem. Provides Boids algorithm, formation control, consensus protocols, task allocation, obstacle avoidance, and swarm metrics -- all in pure Rust.
 
 ## Features
 

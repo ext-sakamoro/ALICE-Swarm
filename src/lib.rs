@@ -1,7 +1,7 @@
 #![warn(clippy::all, clippy::pedantic, clippy::nursery)]
 #![allow(clippy::module_name_repetitions)]
 
-//! ALICE-Swarm: Multi-agent swarm control library.
+//! ALICE-Swarm: swarm control for many autonomous units.
 //!
 //! Provides Boids algorithm, formation control, consensus protocols,
 //! task allocation, obstacle avoidance, communication topology,
